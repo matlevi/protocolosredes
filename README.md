@@ -10,13 +10,6 @@ Consolidar conhecimentos em redes por meio de laboratórios práticos, simulando
 - Redes TCP/IP
 - Conceitos de Infraestrutura de Redes
 
-## 📁 Estrutura do Projeto
-Cada pasta representa um laboratório contendo:
-- Arquivo `.pkt` (simulação)
-- Topologia da rede (imagem)
-- Configurações utilizadas
-- Explicação do que foi feito
-
 ## 🚀 Evolução
 Este repositório será atualizado conforme avanço nos estudos, incluindo novos protocolos, testes e cenários mais complexos.
 
